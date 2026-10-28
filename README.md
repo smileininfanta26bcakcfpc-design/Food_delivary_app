@@ -1,6 +1,6 @@
 # Food_delivary_app
-Figma link:
-https://www.figma.com/community/file/1674652180539148792/food-delivary-app?fuid=1663782934095645686
+Figma design link:
+https://www.figma.com/design/4Hyw2VVDcXwvhOAgzZ7eWU/Food-delivary-app?node-id=0-1&p=f&t=W5ZnWCju3n8JxwP2-0
 Proto Type Link :
 https://www.figma.com/proto/4Hyw2VVDcXwvhOAgzZ7eWU/Food-delivary-app?node-id=0-1&t=TLxMIveysQ5j1obp-1
 Title : Food delivary App
